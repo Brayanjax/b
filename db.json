@@ -1,0 +1,50 @@
+"questions": [
+    {
+      "answers_1": 82,
+      "answers_2": 81,
+      "answers_3": 422,
+      "answers_4": 70,
+      "answers_final": 82,
+      "question": "¿Cuánto es 45 + 37?"
+    },
+    {
+      "answers_1": 48,
+      "answers_2": 86,
+      "answers_3": 49,
+      "answers_4": 34,
+      "answers_final": 48,
+      "question": "¿Cuánto es 8 × 6?"
+    },
+    {
+      "answers_1": 36,
+      "answers_2": 37,
+      "answers_3": 312,
+      "answers_4": 12,
+      "answers_final": 36,
+      "question": "Ana tiene 3 cajas con 12 lápices en cada una. ¿Cuántos lápices tiene en total?"
+    },
+    {
+      "answers_1": "5:45",
+      "answers_2": "4:45",
+      "answers_3": "3:35",
+      "answers_4": "6:20",
+      "answers_final": "5:45",
+      "question": "Si una película comienza a las 3:15 p. m. y dura 2 horas y 30 minutos, ¿a qué hora termina?"
+    },
+    {
+      "answers_1": 77,
+      "answers_2": 83,
+      "answers_3": 67,
+      "answers_4": 108,
+      "answers_final": 77,
+      "question": "En una tienda hay 145 manzanas. Se venden 68. ¿Cuántas manzanas quedan?"
+    },
+    {
+      "answers_1": 9,
+      "answers_2": 5,
+      "answers_3": 45,
+      "answers_4": 19,
+      "answers_final": 9,
+      "question": "Si 5 × 9 = 45, ¿cuánto es 45 ÷ 5?"
+    }
+  ]
